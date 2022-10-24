@@ -16,4 +16,10 @@ p{
         height: 20%;
         border: 2px solid red;
     }
-    
+   .itens{
+      font-style: italic;
+      text-align: left;
+   } 
+   .benefios{
+       background-color: white;
+   }
