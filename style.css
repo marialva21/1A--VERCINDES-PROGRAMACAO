@@ -22,4 +22,16 @@ p{
    } 
    .benefios{
        background-color: white;
-   }
+     font-size: 25px;
+    
+    }
+    h2{
+        text-align: left;
+    }
+
+    ul{
+    display:inline-block
+    vertical-align: top;
+    margin: 3%;
+    list-style: circle
+    ;}
